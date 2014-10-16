@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[biq:home|Door43 (biq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-biq|d43-biq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-biq/archive/master.zip|d43-biq.zip]]
+
+**Recent Changes**
+{{changes>ns = biq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/biq|Ethnologue data]]
+
